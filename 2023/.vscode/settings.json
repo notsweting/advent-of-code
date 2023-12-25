@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        ".XCompose": "log",
+        "iostream": "cpp"
+    }
+}
